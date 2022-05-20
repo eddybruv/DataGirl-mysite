@@ -1,0 +1,9 @@
+# Install Django
+# Creating and configuring a django project
+# Create a django application
+# Designing models and generating model migrations
+# Creating administration site for our website
+# Working with QuerySets and managers
+# Building views, templates and URL
+# Adding pagination to a list of views
+# Using Django's class Bass view
