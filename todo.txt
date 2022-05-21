@@ -7,3 +7,14 @@
 # Building views, templates and URL
 # Adding pagination to a list of views
 # Using Django's class Bass view
+
+
+# Blog application Requirements
+
+- POSTS 
+  - title
+  - slug
+  - author
+  - body
+  - publish
+  - status
